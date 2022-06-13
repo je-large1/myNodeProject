@@ -1,0 +1,25 @@
+{
+  "name": "mynodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/je-large1/myNodeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/je-large1/myNodeProject/issues"
+  },
+  "homepage": "https://github.com/je-large1/myNodeProject#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jest": "^28.1.1",
+    "nodemon": "^2.0.16"
+  }
+}
